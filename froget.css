@@ -1,0 +1,37 @@
+body
+{
+	font-size: 25px;
+	font-family: tahoma;
+	background-color: #E9EBEE;
+}
+.forget
+{
+	border: 2px solid #fff;
+	height: 50px;
+	width: 1185px;
+	background-color: #fff;   
+}
+
+h2
+{
+	color: #0478EA;
+	margin-top: 1px;
+}
+img
+{
+	margin: 0 auto;
+	height: 500px;
+	width: 500px;
+}
+h1
+
+{
+
+	color: #000000;
+	margin-top: 1px;
+}
+.noname
+{
+	color: dark red;
+
+}
